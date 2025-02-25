@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315609106600",
+    "project_id": "anpr-fyp",
+    "storage_bucket": "anpr-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315609106600:android:ff628c52f8bda8962a1a9d",
+        "android_client_info": {
+          "package_name": "com.example.cbm_anpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315609106600-9ul89c9s1cprarplvouhl4jmntnk66mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmZc0gH_mUkb7hXrqDZ0Zsdai1AJq420"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315609106600-9ul89c9s1cprarplvouhl4jmntnk66mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
